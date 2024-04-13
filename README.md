@@ -1,6 +1,12 @@
 # Bulk Email Sender
 
 This Python script allows you to send bulk emails using a CSV file containing email addresses, subjects, and messages.
+## VIDEO EXPLANATION
+[VIDEO LINK](https://drive.google.com/file/d/1lnppb5ZXJQlZGOE7OjSqwGwqJmKFmJtA/view?usp=sharing)
+## SETUP YOUR PC:
+- install python in your PC.
+- Open the VS CODE, and RUN the file
+- Change the sender details accordingly.
 
 ## Dependencies
 
